@@ -1,5 +1,5 @@
 {
-    "name": "build_releases",
+    "name": "build-releases",
     "version-string": "0.0.1-dev",
     "dependencies": [
         "sdl2",

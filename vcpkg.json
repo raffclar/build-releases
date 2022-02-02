@@ -1,0 +1,17 @@
+{
+    "name": "build_releases",
+    "version-string": "0.0.1-dev",
+    "dependencies": [
+        "sdl2",
+        "spdlog",
+        "glm",
+        "entt",
+        "cxxopts",
+        {
+            "name": "bgfx",
+            "default-features": false,
+            "features": ["tools"]
+        },
+        "bullet3"
+    ]
+}

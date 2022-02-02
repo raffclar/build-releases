@@ -1,4 +1,6 @@
-//
-// Created by Aluda on 02/02/2022.
-//
+#include <cstdio>
 
+int main() {
+  std::printf("Hello!\n");
+  return 0;
+}
